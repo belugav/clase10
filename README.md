@@ -1,15 +1,4 @@
-# Motores de Plantillas
+# Motores de Plantillas- Clase 10
 
-Justificación de cual motor de plantilla prefiero:
-Ejs: Es el motor de plantilla que use para este desafío y me siento muy cómodo usándolo, si bien para la mayoría el hecho de tener que poner "<% %>" en una y cada una de las lineas que se deba usar código de Javasctipt puede resultar algo tedioso y a veces hasta confuso, para mi paso no fue tan "traumático" y siento que no pierdo la esencia de como trabajo con lo que es HTML convencional.
-```
-correr el proyecto
-```
-npm i
-```
-npm start
-```
-tener instalado previamente a nivel global nodemon 
-```
-npm run start-dev
-```
+Justificacion:
+El motor de plantilla que prefiero es Ejs, porque es muy parecido en cuanto a la diáamica de trabajo cuando se usa html y javascript convencional. Con los otros motores de plantilla como pasa por ejemplo con pug, cambia bastante la estructura y en lo personal me presta a confusiÓn, tardando mas realizar un proyecto con este ultimo.
